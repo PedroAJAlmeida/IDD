@@ -225,7 +225,7 @@
         "name": "Chipre"
     },
     {
-        "idd": "+3906698,79",
+        "idd": "undefined",
         "flag": "https://flagcdn.com/va.svg",
         "name": "Cidade do Vaticano"
     },
@@ -510,7 +510,7 @@
         "name": "Ilha de Man"
     },
     {
-        "idd": "undefinedundefined",
+        "idd": "undefined",
         "flag": "https://flagcdn.com/hm.svg",
         "name": "Ilha Heard e Ilhas McDonald"
     },
